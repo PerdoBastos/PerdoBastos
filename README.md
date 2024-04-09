@@ -19,7 +19,7 @@
 </div>
 <br>
 
-## Get in touch with me
+## Get in touch with me 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bastos-2209ab173/)
 [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.miguel.ameixa.bastos@gmail.com)
